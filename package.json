@@ -3,14 +3,17 @@
   "version": "1.0.0",
   "description": "Test vercel deployments",
   "main": "server.js",
-  "engines":{
-    "node":"12.22.12"
+  "engines": {
+    "node": "12.22.12"
   },
   "scripts": {
     "test": "echo \"test",
     "start": "node server.js"
   },
-  "keywords": ["express","vercel"],
+  "keywords": [
+    "express",
+    "vercel"
+  ],
   "author": "Anna Zaldivar",
   "license": "ISC",
   "dependencies": {
